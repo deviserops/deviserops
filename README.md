@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 # Projects Worked On:
 
-## Kalaty [visit] (https://kalaty.com/)
+## Kalaty [visit](https://kalaty.com/)
 ## Fargtryckarn [Visit](https://www.fargtryckarn.se/)
 ## geoprinting ltd [Visit](https://geoprintingltd.uk/)
 ## Fr-easy [Visit](https://fr-easy.in/)
