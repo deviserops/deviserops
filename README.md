@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - Git/Bitbucket
 - Composer
 - Docker
+- CI/CD
 - Yii2, Laravel, Codeigniter
 - OS - Ubuntu/Windows
 - Apache2/Nginx
