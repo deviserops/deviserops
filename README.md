@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hgphpdev/hgphpdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/hgphpdev/hgphpdev/blob/master/1521095122816.jpeg" width="400"></a></p>
+
+### Hi there 👋
 
 ## Tech Stack
 - Git/Bitbucket
