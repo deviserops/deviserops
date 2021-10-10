@@ -120,7 +120,7 @@ We are a small but fast-growing printing company that is looking for new ways to
 - Fortnox
 
 ****************************************************************
-## geoprinting ltd [Visit](https://geoprintingltd.uk/)
+## Geoprinting ltd [Visit](https://geoprintingltd.uk/)
 02 years ago our team started offering a standard printing service online. We quickly grew to become the biggest player in the market and proved time after time that we could deliver online printing orders cheaper, easier and faster than the competition. That’s what we’re still doing; delivering more affordable, easier and faster, printing to you - that’s our passion. Welcome to Geo Printing.
 
 <p align="left"><a href="https://geoprintingltd.uk/about">About</a></p>
@@ -242,7 +242,7 @@ This is a connector between <a href="https://www.brightpearl.com/">brightpearl</
 - Brightpearl Api
 
 ****************************************************************
-## cyberjammiesjohnlewis [Visit](https://cyberjammiesjohnlewis.bsitc-apps.com/)
+## Cyberjammiesjohnlewis [Visit](https://cyberjammiesjohnlewis.bsitc-apps.com/)
 This is a connector between <a href="https://www.brightpearl.com/">brightpearl</a> and cyberjammiesjohnlewis. This is a business solution website for cyberjammiesjohnlewis sales. and managing the sales.
 
 ### Functionality
@@ -260,7 +260,7 @@ This is a connector between <a href="https://www.brightpearl.com/">brightpearl</
 - Brightpearl Api
 
 ****************************************************************
-## wtcinderella (Water That cinderella) [Visit](https://wtcinderella.bsitc-apps.com/)
+## Wtcinderella (Water That cinderella) [Visit](https://wtcinderella.bsitc-apps.com/)
 This is a connector between <a href="https://www.brightpearl.com/">brightpearl</a> and cinderella. This is a business solution website for cinderella sales. and managing the sales.
 
 ### Functionality
