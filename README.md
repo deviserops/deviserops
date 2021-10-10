@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 [comment]: <> (<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>)
 
 -->
-<p align="center"><a href="https://github.com/hgphpdev" target="_blank"><img src="https://github.com/hgphpdev/hgphpdev/blob/master/asset/background.jpeg" width="400"></a></p>
+<p align="center"><a href="https://github.com/hgphpdev" target="_blank"><img src="https://github.com/hgphpdev/hgphpdev/blob/master/asset/background.jpeg" width="100%"></a></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hgphpdev/" target="_blank"><img src="https://github.com/hgphpdev/hgphpdev/blob/master/asset/link.png" width="100"></a>
