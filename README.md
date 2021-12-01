@@ -65,7 +65,7 @@ This laravel library used to validate the form with ajax and verify the form dat
 # Projects Worked On:
 ****************************************************************
 
-## App E-Gift cards [<img src="https://github.com/hgphpdev/hgphpdev/blob/master/asset/h2-url.png">](https://appegiftcards.com)
+## App E-Gift cards [<img src="https://github.com/hgphpdev/hgphpdev/blob/master/asset/h2-url.png">](http://appeportal.com/)
 App E-Gifts is a virtual gift card system which operates independently of any Payment Gateway services. There are a total 4 User roles in this website which are CardHolder, Vendor, VendorPos, Super Admin. User transactions (Buy A Card or Redeem From A Card) are performed In Store. The Card Holder (user) can Buy A Card or Redeem From A Card with Mobile App. The user pays for the card In Store per a normal pos transaction. The Vendor POS account web page shows pending transactions for that vendor, where User transactions can be Approved or Rejected. Vendors have a Website where they can create/manage cards available for the user to buy.
 
 ### Functionality
