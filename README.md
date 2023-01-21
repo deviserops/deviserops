@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 <p align="center"><a href="https://github.com/hgphpdev" target="_blank"><img src="https://github.com/hgphpdev/hgphpdev/blob/master/asset/background.jpeg" width="100%"></a></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hgphpdev/" target="_blank"><img src="https://github.com/hgphpdev/hgphpdev/blob/master/asset/link.png" width="100"></a>
 <a href="https://www.youtube.com/c/CrackerWeb" target="_blank"><img src="https://github.com/hgphpdev/hgphpdev/blob/master/asset/you.png" width="100"></a>
-<a href="mailto:hgphpdev@gmail.com" target="_blank"><img src="https://github.com/hgphpdev/hgphpdev/blob/master/asset/mail.png" width="100"></a>
-<a href="https://join.skype.com/invite/l2BQbfgFKdc8" target="_blank"><img src="https://github.com/hgphpdev/hgphpdev/blob/master/asset/skype.png" width="100"></a>
 </p>
 
 # Hi there 👋
