@@ -14,13 +14,25 @@ Here are some ideas to get you started:
 [comment]: <> (<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>)
 
 -->
-<p align="center"><a href="https://github.com/hgphpdev" target="_blank"><img src="https://github.com/hgphpdev/hgphpdev/blob/master/asset/background.jpeg" width="100%"></a></p>
 
 <p align="center">
-<a href="https://www.youtube.com/c/CrackerWeb" target="_blank"><img src="https://github.com/hgphpdev/hgphpdev/blob/master/asset/you.png" width="100"></a>
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=008080&center=true&vCenter=true&repeat=false&width=435&height=35&lines=DeviserOps" /></a>
 </p>
 
-# Hi there 👋
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008080&center=true&vCenter=true&width=435&height=35&lines=Full+Stack+Developer;5%2B+Years+Of+Experience;Always+learning+new+things" /></a>
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/@CrackerWeb"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+</p>
 
 ## Tech Stack
 - Git/Bitbucket
