@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 # Build Plugin
 
 ## Justify [<img src="https://github.com/hgphpdev/hgphpdev/blob/master/asset/h2-url.png">](https://github.com/hgphpdev/justify)
-This laravel library used to validate the form with ajax and verify the form data based on request validation.
+This JavaScript library serves as a powerful tool for form validation, seamlessly integrating AJAX functionality to verify form data while adhering to request validation standards.
 
 ### Tack Stack Used
 
