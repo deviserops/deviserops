@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 - AWS - EC2,S3,Route5
 - Apple, Google, Facebok Login Api
 - Dropbox Api
-- Fortnox [<img src="./asset/h3-url.png">](https://www.fortnox.se/)
+- Fortnox [<img style="height: 13px" src="./asset/link.png">](https://www.fortnox.se/)
 - Exotel Api
 - GoDaddy Domain
 - Infobip Api
@@ -67,18 +67,17 @@ Here are some ideas to get you started:
 
 ****************************************************************
 
-## Notify [<img src="./asset/h2-url.png">](https://www.npmjs.com/package/@deviser/notify)
+## Notify [<img style="height: 19px" src="./asset/link.png">](https://www.npmjs.com/package/@deviser/notify)
 
-This JavaScript library serves as a powerful tool for form validation, seamlessly integrating AJAX functionality to
-verify form data while adhering to request validation standards.
+Introducing notify to display popup notification on your web page. Library display pop up notification of any type.
 
 ### Tack Stack Used
 
-- Jquery/Javascript
+- Javascript Only
 
 ****************************************************************
 
-## Justify [<img src="./asset/h2-url.png">](https://github.com/deviserops/justify)
+## Justify [<img style="height: 19px" src="./asset/link.png">](https://github.com/deviserops/justify)
 
 This JavaScript library serves as a powerful tool for form validation, seamlessly integrating AJAX functionality to
 verify form data while adhering to request validation standards.
@@ -91,7 +90,7 @@ verify form data while adhering to request validation standards.
 
 ****************************************************************
 
-## App E-Gift cards [<img src="./asset/h2-url.png">](http://appeportal.com/)
+## App E-Gift cards [<img style="height: 19px" src="./asset/link.png">](http://appeportal.com/)
 
 App E-Gifts is a virtual gift card system which operates independently of any Payment Gateway services. There are a
 total 4 User roles in this website which are CardHolder, Vendor, VendorPos, Super Admin. User transactions (Buy A Card
@@ -124,7 +123,7 @@ create/manage cards available for the user to buy.
 
 ****************************************************************
 
-## Kalaty [<img src="./asset/h2-url.png">](https://kalaty.com/)
+## Kalaty [<img style="height: 19px" src="./asset/link.png">](https://kalaty.com/)
 
 Whether your décor taste is traditional, modern or somewhere in-between, we offer a wide range of superior-quality
 hand-knotted, handcrafted and power-loomed rugs in myriad colors, styles, designs, patterns, weaves, constructions,
@@ -146,7 +145,7 @@ textures, shapes and sizes to add that wow-factor to every room.
 
 ****************************************************************
 
-## Fargtryckarn [<img src="./asset/h2-url.png">](https://www.fargtryckarn.se/)
+## Fargtryckarn [<img style="height: 19px" src="./asset/link.png">](https://www.fargtryckarn.se/)
 
 We are a small but fast-growing printing company that is looking for new ways to make it better for you as a customer.
 We want to look at the whole and help you no matter what the problem is, to guarantee the best possible serivce. The
@@ -177,7 +176,7 @@ create simplicity for you as a customer.
 
 ****************************************************************
 
-## Geoprinting ltd [<img src="./asset/h2-url.png">](https://geoprintingltd.uk/)
+## Geoprinting ltd [<img style="height: 19px" src="./asset/link.png">](https://geoprintingltd.uk/)
 
 02 years ago our team started offering a standard printing service online. We quickly grew to become the biggest player
 in the market and proved time after time that we could deliver online printing orders cheaper, easier and faster than
@@ -196,7 +195,7 @@ our passion. Welcome to Geo Printing.
 
 ****************************************************************
 
-## Fr-easy [<img src="./asset/h2-url.png">](https://fr-easy.in/)
+## Fr-easy [<img style="height: 19px" src="./asset/link.png">](https://fr-easy.in/)
 
 This is a Fundraising organisation, which enrol donors on behalf of various charities across several cities in India.
 And this website manages all the data by the admin and other user roles like: Team Leader, Manager, Super admin, Admin,
@@ -224,7 +223,7 @@ City Head, Process Manager. Overall 11 Roles implemented with each have differen
 
 ****************************************************************
 
-## SkylarSecurity [<img src="./asset/h2-url.png">](https://www.skylarsecurity.com/)
+## SkylarSecurity [<img style="height: 19px" src="./asset/link.png">](https://www.skylarsecurity.com/)
 
 Website is used to manage security guard timesheet and role assignment to the security guard by super admin. This is
 basically guard service.
@@ -245,7 +244,7 @@ basically guard service.
 
 ****************************************************************
 
-## Exygo [<img src="./asset/h2-url.png">](https://webapp.exygo.in/login)
+## Exygo [<img style="height: 19px" src="./asset/link.png">](https://webapp.exygo.in/login)
 
 An appointment website to create and appointment for customer and super admin to manage customers.
 
@@ -269,7 +268,7 @@ An appointment website to create and appointment for customer and super admin to
 
 ****************************************************************
 
-## Uniexplorers [<img src="./asset/h2-url.png">](http://staging.uniexplorers.com/)
+## Uniexplorers [<img style="height: 19px" src="./asset/link.png">](http://staging.uniexplorers.com/)
 
 This is an education based website where students can complete any course from an institution and they can also get a
 scholarship for their education. There are several user roles here like Admin, Scholarship Provider, Institution,
@@ -289,7 +288,7 @@ with on request registrations option for institutes and scholarship providers et
 
 ****************************************************************
 
-## Hmikolkata [<img src="./asset/h2-url.png">](https://hmikolkata.com/)
+## Hmikolkata [<img style="height: 19px" src="./asset/link.png">](https://hmikolkata.com/)
 
 This is an institution website you can buy course and course package. This is Govt of India Approved Post Sea Maritime
 Institute.
@@ -316,7 +315,7 @@ Institute.
 
 ****************************************************************
 
-## Pumach3pl [<img src="./asset/h2-url.png">](https://pumach3pl.bsitc-apps.com/)
+## Pumach3pl [<img style="height: 19px" src="./asset/link.png">](https://pumach3pl.bsitc-apps.com/)
 
 This is a connector between <a href="https://www.brightpearl.com/">brightpearl</a> and pumach3pl. This is a business
 solution website for pumach3pl sales. and managing the sales.
@@ -341,7 +340,7 @@ solution website for pumach3pl sales. and managing the sales.
 
 ****************************************************************
 
-## Cyberjammiesjohnlewis [<img src="./asset/h2-url.png">](https://cyberjammiesjohnlewis.bsitc-apps.com/)
+## Cyberjammiesjohnlewis [<img style="height: 19px" src="./asset/link.png">](https://cyberjammiesjohnlewis.bsitc-apps.com/)
 
 This is a connector between <a href="https://www.brightpearl.com/">brightpearl</a> and cyberjammiesjohnlewis. This is a
 business solution website for cyberjammiesjohnlewis sales. and managing the sales.
@@ -366,7 +365,7 @@ business solution website for cyberjammiesjohnlewis sales. and managing the sale
 
 ****************************************************************
 
-## Wtcinderella (Water That cinderella) [<img src="./asset/h2-url.png">](https://wtcinderella.bsitc-apps.com/)
+## Wtcinderella (Water That cinderella) [<img style="height: 19px" src="./asset/link.png">](https://wtcinderella.bsitc-apps.com/)
 
 This is a connector between <a href="https://www.brightpearl.com/">brightpearl</a> and cinderella. This is a business
 solution website for cinderella sales. and managing the sales.
@@ -391,7 +390,7 @@ solution website for cinderella sales. and managing the sales.
 
 ****************************************************************
 
-## Toptierediting [<img src="./asset/h2-url.png">](https://toptierediting.com/)
+## Toptierediting [<img style="height: 19px" src="./asset/link.png">](https://toptierediting.com/)
 
 Top Tier Editing is a New York-based company that offers a range of scientific editing services. Our expertise is in the
 social sciences and we use the official writing style of the American Psychological Association, APA Style. As one of
@@ -419,7 +418,7 @@ target audience, and enhance the scientific quality of your work.
 
 ****************************************************************
 
-## Rental Agency [<img src="./asset/h2-url.png">](http://rentalagency.com/)
+## Rental Agency [<img style="height: 19px" src="./asset/link.png">](http://rentalagency.com/)
 
 This website provide rental service for all category like living, shop, car, flight etc.
 
