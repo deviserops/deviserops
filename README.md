@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 
 ## 🔨 Languages and Tools:
 
-****************************************************************
 <div style="text-align: center">
 
 [<img style="margin-left: 5px;" src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" width="42" height="42" alt="Github">](https://github.com/)
@@ -64,7 +63,6 @@ Here are some ideas to get you started:
 
 ## 🛠️ My Projects
 
-****************************************************************
 
 ## - Notify [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://www.npmjs.com/package/@deviser/notify)
 
