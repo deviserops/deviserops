@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 
 -->
 
-<div style="text-align: center">
+<div align="center" style="text-align: center">
 
 [<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=008080&center=true&vCenter=true&repeat=false&width=435&height=35&lines=DeviserOps">](https://github.com/DenverCoder1/readme-typing-svg)
 </div>
 
 
-<div style="text-align: center">
+<div align="center" style="text-align: center">
 
 [<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008080&center=true&vCenter=true&width=435&height=35&lines=Full+Stack+Developer;5%2B+Years+Of+Experience;Always+learning+new+things">](https://github.com/DenverCoder1/readme-typing-svg)
 </div>
 
 
 <!-- Social icons section -->
-<div style="text-align: center">
+<div align="center" style="text-align: center">
 
 [<img src="https://i.imgur.com/qiXu7b2.png" width="35px">](https://www.youtube.com/@CrackerWeb)
 [<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="35px">](https://www.linkedin.com/in/deviser/)
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## 🔨 Languages and Tools:
 
-<div style="text-align: center">
+<div align="center" style="text-align: center">
 
 [<img style="margin-left: 5px;" src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" width="42" height="42" alt="Github">](https://github.com/)
 [<img style="margin-left: 5px;" src="https://img.icons8.com/?size=100&id=lRjcvhvtR81o&format=png&color=000000" width="42" height="42" alt="laravel"/>](https://laravel.com/)
