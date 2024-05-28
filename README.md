@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-# Projects Worked On:
+# 🛠️ Projects Worked On:
 
 ****************************************************************
 
