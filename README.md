@@ -15,76 +15,70 @@ Here are some ideas to get you started:
 
 -->
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=008080&center=true&vCenter=true&repeat=false&width=435&height=35&lines=DeviserOps" /></a>
-</p>
+<div style="text-align: center">
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008080&center=true&vCenter=true&width=435&height=35&lines=Full+Stack+Developer;5%2B+Years+Of+Experience;Always+learning+new+things" /></a>
-</p>
+[<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=008080&center=true&vCenter=true&repeat=false&width=435&height=35&lines=DeviserOps">](https://github.com/DenverCoder1/readme-typing-svg)
+</div>
+
+
+<div style="text-align: center">
+
+[<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008080&center=true&vCenter=true&width=435&height=35&lines=Full+Stack+Developer;5%2B+Years+Of+Experience;Always+learning+new+things">](https://github.com/DenverCoder1/readme-typing-svg)
+</div>
+
 
 <!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/@CrackerWeb"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+<div style="text-align: center">
 
-</p>
+[<img src="https://i.imgur.com/qiXu7b2.png" width="35px">](https://www.youtube.com/@CrackerWeb)
+[<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="35px">](https://www.linkedin.com/in/deviser/)
+</div>
+<br/>
 
-## Tech Stack
+## 🔨 Languages and Tools:
 
-- Git/Bitbucket
-- Composer
-- Docker
-- CI/CD
-- Yii2, Laravel, Codeigniter, Django
-- OS - Ubuntu/Windows
-- Apache2/Nginx
-- PHP (Primary)
-- Python
-- Mysql
-- Javascript/JQuery
+****************************************************************
+<div style="text-align: center">
 
-## External Tech Implementation and Integration
+[<img style="margin-left: 5px;" src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" width="42" height="42" alt="Github">](https://github.com/)
+[<img style="margin-left: 5px;" src="https://img.icons8.com/?size=100&id=lRjcvhvtR81o&format=png&color=000000" width="42" height="42" alt="laravel"/>](https://laravel.com/)
+[<img style="margin-left: 5px;" src="https://img.icons8.com/?size=100&id=r4UrHt1gLC2t&format=png&color=000000" width="42" height="42" alt="Codeigniter"/>](https://codeigniter.com/)
+[<img style="margin-left: 5px;" src="https://img.icons8.com/?size=100&id=58122&format=png&color=000000" width="42" height="42" alt="Yii">](https://www.yiiframework.com/)
+[<img style="margin-left: 5px;" src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" width="42" height="42" alt="Django"/>](https://www.djangoproject.com/)
+[<img style="margin-left: 5px;" src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000" width="42" height="42" alt="PHP"/>](https://www.php.net/)
+[<img style="margin-left: 5px;" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="42" height="42" alt="Python"/>](https://www.python.org/)
+[<img style="margin-left: 5px;" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="42" height="42" alt="Javascript"/>](https://www.javascript.com/)
+[<img style="margin-left: 5px;" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="42" height="42" alt="Git"/>](https://git-scm.com/)
+[<img style="margin-left: 5px;" src="https://img.icons8.com/?size=100&id=iZTo5EQZtLKm&format=png&color=000000" width="42" height="42" alt="Bitbucket"/>](https://bitbucket.org)
+[<img style="margin-left: 5px;" src="https://getcomposer.org/img/logo-composer-transparent.png" width="42" height="42" alt="Composer">](https://getcomposer.org/)
+[<img style="margin-left: 5px;" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" width="42" height="42" alt="Docker">](https://www.docker.com/)
+<img  style="margin-left: 5px;" src="https://img.icons8.com/?size=100&id=zsgi2IdLO0qr&format=png&color=000000****" width="42" height="42" alt="Ci/CD">
+[<img style="margin-left: 5px;" src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" width="42" height="42" alt="Ubuntu"/>](https://ubuntu.com/)
+[<img style="margin-left: 5px;" src="https://img.icons8.com/?size=100&id=OrZMxhqm7nsr&format=png&color=000000" width="42" height="42" alt="Apache"/>](https://httpd.apache.org/)
+[<img style="margin-left: 5px;" src="https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000" width="42" height="42" alt="Nginx"/>](https://nginx.org/en/)
+[<img style="margin-left: 5px;" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="42" height="42" alt="Nginx"/>](https://aws.amazon.com/)
+[<img style="margin-left: 5px;" src="https://img.icons8.com/?size=100&id=13657&format=png&color=000000" width="42" height="42" alt="Nginx"/>](https://www.dropbox.com/)
+[<img style="margin-left: 5px;" src="https://img.icons8.com/?size=100&id=IXY8V0p2yPnm&format=png&color=000000" width="42" height="42" alt="Nginx"/>](https://www.godaddy.com/)
+</div>
+<br/>
 
-- AWS - EC2,S3,Route5
-- Apple, Google, Facebok Login Api
-- Dropbox Api
-- Fortnox [<img style="height: 13px" src="./asset/link.png">](https://www.fortnox.se/)
-- Exotel Api
-- GoDaddy Domain
-- Infobip Api
-- MailTrap, MailGun, Mandrill Integration
-- Pubnub SMS and chat api
-- Razorpay, Stipe, Atom, Paypal payment gateway
+## 🛠️ My Projects
 
 ****************************************************************
 
-# Build Plugin
+## - Notify [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://www.npmjs.com/package/@deviser/notify)
 
-****************************************************************
+  ```
+  Introducing notify to display popup notification on your web page. Library display pop up notification of any type.
+  ```
 
-## Notify [<img style="height: 19px" src="./asset/link.png">](https://www.npmjs.com/package/@deviser/notify)
+## - Justify [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://github.com/deviserops/justify)
 
-Introducing notify to display popup notification on your web page. Library display pop up notification of any type.
+  ```
+  This JavaScript library serves as a powerful tool for form validation, seamlessly integrating AJAX functionality to verify form data while adhering to request validation standards.
+  ```
 
-### Tack Stack Used
-
-- Javascript Only
-
-****************************************************************
-
-## Justify [<img style="height: 19px" src="./asset/link.png">](https://github.com/deviserops/justify)
-
-This JavaScript library serves as a powerful tool for form validation, seamlessly integrating AJAX functionality to
-verify form data while adhering to request validation standards.
-
-### Tack Stack Used
-
-- Jquery/Javascript
+<br/>
 
 # Projects Worked On:
 
