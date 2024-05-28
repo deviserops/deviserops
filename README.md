@@ -86,51 +86,11 @@ App. The user pays for the card In Store per a normal pos transaction. The Vendo
 transactions for that vendor, where User transactions can be Approved or Rejected. Vendors have a Website where they can
 create/manage cards available for the user to buy.
 
-### Functionality
-
-- Api For Mobile Application
-- Repository Pattern
-- Build Library for external integration
-
-### Tack Stack Used
-
-- Git Command line / Bitbucket
-- PHP - ^V8.0
-- Mysql - ^V8.0
-- Framework - Laravel
-- Server - Apache
-- OS - Ubuntu
-- Jquery/Javascript
-
-### External Tech Implementation and Integration
-
-- AWS S3 Bucket
-- AWS EC2
-- AWS Route5
-
-****************************************************************
-
 ## Kalaty [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://kalaty.com/)
 
 Whether your décor taste is traditional, modern or somewhere in-between, we offer a wide range of superior-quality
 hand-knotted, handcrafted and power-loomed rugs in myriad colors, styles, designs, patterns, weaves, constructions,
 textures, shapes and sizes to add that wow-factor to every room.
-
-### Tack Stack Used
-
-- Convert From core php to Yii2
-
-### Tack Stack Used
-
-- Git Command line / Bitbucket
-- PHP - ^V7.2
-- Mysql - ^V5.7
-- Framework - Yii2
-- Server - Apache
-- OS - Ubuntu
-- Jquery/Javascript
-
-****************************************************************
 
 ## Fargtryckarn [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://www.fargtryckarn.se/)
 
@@ -140,29 +100,6 @@ business has been active since 1999 and we have extensive experience in what is 
 matter. In recent years, we have expanded our business to also include profile clothing and trade fair products, all to
 create simplicity for you as a customer.
 
-### Functionality
-
-- Api For Frontend
-- Build Library for external integration
-
-### Tack Stack Used
-
-- Git Command line / Bitbucket
-- PHP - ^V7.2
-- Mysql - ^V5.7
-- Backend Framework - Laravel
-- Frontend - React/Redux/Typescript/React Router
-- Server - Apache
-- OS - Ubuntu
-- Jquery/Javascript
-
-### External Tech Implementation and Integration
-
-- Dropbox Api
-- Fortnox
-
-****************************************************************
-
 ## Geoprinting ltd [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://geoprintingltd.uk/)
 
 02 years ago our team started offering a standard printing service online. We quickly grew to become the biggest player
@@ -170,90 +107,20 @@ in the market and proved time after time that we could deliver online printing o
 the competition. That’s what we’re still doing; delivering more affordable, easier and faster, printing to you - that’s
 our passion. Welcome to Geo Printing.
 
-### Tack Stack Used
-
-- Git Command line / Bitbucket
-- PHP - ^V7.2
-- Mysql - ^V5.7
-- Framework - Laravel
-- Server - Apache
-- OS - Ubuntu
-- Jquery/Javascript
-
-****************************************************************
-
 ## Fr-easy [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://fr-easy.in/)
 
 This is a Fundraising organisation, which enrol donors on behalf of various charities across several cities in India.
 And this website manages all the data by the admin and other user roles like: Team Leader, Manager, Super admin, Admin,
 City Head, Process Manager. Overall 11 Roles implemented with each have different access control over their panel.
 
-### Functionality
-
-- Api For Mobile Application
-- Build Library for external integration
-
-### Tack Stack Used
-
-- Git Command line / Bitbucket
-- PHP - ^V7.4
-- Mysql - ^V5.7
-- Framework - Laravel
-- Server - Apache
-- OS - Ubuntu
-- Jquery/Javascript
-
-### External Tech Implementation and Integration
-
-- Pubnub SMS and Chat Api
-- Exotel Api
-
-****************************************************************
-
 ## SkylarSecurity [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://www.skylarsecurity.com/)
 
 Website is used to manage security guard timesheet and role assignment to the security guard by super admin. This is
 basically guard service.
 
-### Functionality
-
-- Api For Mobile Application
-
-### Tack Stack Used
-
-- Git Command line / Bitbucket
-- PHP - ^V7.4
-- Mysql - ^V5.7
-- Framework - Laravel
-- Server - Apache
-- OS - Ubuntu
-- Jquery/Javascript
-
-****************************************************************
-
 ## Exygo [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://webapp.exygo.in/login)
 
 An appointment website to create and appointment for customer and super admin to manage customers.
-
-### Functionality
-
-- Build Library for external integration
-
-### Tack Stack Used
-
-- Git Command line / Bitbucket
-- PHP - ^V7.4
-- Mysql - ^V5.7
-- Framework - Codeigniter
-- Server - Apache
-- OS - Ubuntu
-- Jquery/Javascript
-
-### External Tech Implementation and Integration
-
-- Infobip
-
-****************************************************************
 
 ## Uniexplorers [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](http://staging.uniexplorers.com/)
 
@@ -263,119 +130,25 @@ Student and their Superadmin. It is application based for Australia only, having
 Institutions, Scholarship providers, Students etc. Each user role is having different options capability into the system
 with on request registrations option for institutes and scholarship providers etc.
 
-### Tack Stack Used
-
-- Git Command line / Bitbucket
-- PHP - ^V7.4
-- Mysql - ^V5.7
-- Framework - Laravel
-- Server - Apache
-- OS - Ubuntu
-- Jquery/Javascript
-
-****************************************************************
-
 ## Hmikolkata [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://hmikolkata.com/)
 
 This is an institution website you can buy course and course package. This is Govt of India Approved Post Sea Maritime
 Institute.
-
-### Functionality
-
-- Adding New functionality and update existing functionality
-- Used Prebuild Library for external api integration
-
-### Tack Stack Used
-
-- Git Command line / Bitbucket
-- PHP - ^V7.2
-- Mysql - ^V5.7
-- Framework - Codeigniter
-- Server - Apache
-- OS - Ubuntu
-- Jquery/Javascript
-
-### External Tech Implementation and Integration
-
-- Razorpay
-- ATOM
-
-****************************************************************
 
 ## Pumach3pl [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://pumach3pl.bsitc-apps.com/)
 
 This is a connector between <a href="https://www.brightpearl.com/">brightpearl</a> and pumach3pl. This is a business
 solution website for pumach3pl sales. and managing the sales.
 
-### Functionality
-
-- Implementation of brightpearl api and pumach3pl ftp
-
-### Tack Stack Used
-
-- Git Command line / Bitbucket
-- PHP - ^V7.2
-- Mysql - ^V5.7
-- Framework - Codeigniter
-- Server - Apache
-- OS - Ubuntu
-- Jquery/Javascript
-
-### External Tech Implementation and Integration
-
-- Brightpearl Api
-
-****************************************************************
-
 ## Cyberjammiesjohnlewis [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://cyberjammiesjohnlewis.bsitc-apps.com/)
 
 This is a connector between <a href="https://www.brightpearl.com/">brightpearl</a> and cyberjammiesjohnlewis. This is a
 business solution website for cyberjammiesjohnlewis sales. and managing the sales.
 
-### Functionality
-
-- Implementation of brightpearl api and cyberjammiesjohnlewis ftp
-
-### Tack Stack Used
-
-- Git Command line / Bitbucket
-- PHP - ^V7.2
-- Mysql - ^V5.7
-- Framework - Codeigniter
-- Server - Apache
-- OS - Ubuntu
-- Jquery/Javascript
-
-### External Tech Implementation and Integration
-
-- Brightpearl Api
-
-****************************************************************
-
 ## Wtcinderella (Water That cinderella) [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://wtcinderella.bsitc-apps.com/)
 
 This is a connector between <a href="https://www.brightpearl.com/">brightpearl</a> and cinderella. This is a business
 solution website for cinderella sales. and managing the sales.
-
-### Functionality
-
-- Implementation of brightpearl api and cinderella ftp
-
-### Tack Stack Used
-
-- Git Command line / Bitbucket
-- PHP - ^V7.2
-- Mysql - ^V5.7
-- Framework - Codeigniter
-- Server - Apache
-- OS - Ubuntu
-- Jquery/Javascript
-
-### External Tech Implementation and Integration
-
-- Brightpearl Api
-
-****************************************************************
 
 ## Toptierediting [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://toptierediting.com/)
 
@@ -385,41 +158,6 @@ the only editing services to use exclusively APA Style, we are highly specialize
 editing. All of our services include APA Style formatting. Our APA editors will work to improve your writing, reach your
 target audience, and enhance the scientific quality of your work.
 
-### Functionality
-
-- Implement mail and fixing issue(Custom wordpress functionality)
-- Database backup with S3 CMD and shell script.sh
-
-### Tack Stack Used
-
-- PHP - ^V7.4
-- Mysql - ^V5.7
-- CMS - wordpress
-- Server - Apache
-- OS- Ubuntu
-- Jquery/Javascript
-
-### External Tech Implementation and Integration
-
-- AWS S3 CMD
-
-****************************************************************
-
 ## Rental Agency [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](http://rentalagency.com/)
 
 This website provide rental service for all category like living, shop, car, flight etc.
-
-### Functionality
-
-- Fixing issue for website
-
-### Tack Stack Used
-
-- Git Command line / Bitbucket
-- Composer
-- Os - Ubuntu
-- PHP - ^V7.2
-- Mysql - ^V5.7
-- Framework - Laravel
-- Server - Apache
-- Jquery/Javascript
