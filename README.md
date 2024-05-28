@@ -63,18 +63,13 @@ Here are some ideas to get you started:
 
 ## 🛠️ My Projects
 
+### Notify [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://www.npmjs.com/package/@deviser/notify)
 
-## - Notify [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://www.npmjs.com/package/@deviser/notify)
+`Introducing notify to display popup notification on your web page. Library display pop up notification of any type.`
 
-  ```
-  Introducing notify to display popup notification on your web page. Library display pop up notification of any type.
-  ```
+### Justify [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://github.com/deviserops/justify)
 
-## - Justify [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://github.com/deviserops/justify)
-
-  ```
-  This JavaScript library serves as a powerful tool for form validation, seamlessly integrating AJAX functionality to verify form data while adhering to request validation standards.
-  ```
+`This JavaScript library serves as a powerful tool for form validation, seamlessly integrating AJAX functionality to verify form data while adhering to request validation standards.`
 
 <br/>
 
