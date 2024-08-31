@@ -28,11 +28,6 @@ Here are some ideas to get you started:
 
 
 <!-- Social icons section -->
-<div align="center" style="text-align: center">
-
-[<img src="https://i.imgur.com/qiXu7b2.png" width="35px">](https://www.youtube.com/@CrackerWeb)
-[<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="35px">](https://www.linkedin.com/in/deviser/)
-</div>
 <br/>
 
 ## 🔨 Languages and Tools:
@@ -62,6 +57,10 @@ Here are some ideas to get you started:
 <br/>
 
 ## 🛠️ My Projects
+
+### DJ All Auth [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://pypi.org/project/dj-all-auth)
+
+`Django all auth includes all account, including django default, OAuth (Google, Discord, Twitch), openId (Steam). Detailed documentation is in the "docs" directory.`
 
 ### Notify [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://www.npmjs.com/package/@deviser/notify)
 
