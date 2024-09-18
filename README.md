@@ -99,13 +99,6 @@ business has been active since 1999 and we have extensive experience in what is 
 matter. In recent years, we have expanded our business to also include profile clothing and trade fair products, all to
 create simplicity for you as a customer.
 
-## Geoprinting ltd [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://geoprintingltd.uk/)
-
-02 years ago our team started offering a standard printing service online. We quickly grew to become the biggest player
-in the market and proved time after time that we could deliver online printing orders cheaper, easier and faster than
-the competition. That’s what we’re still doing; delivering more affordable, easier and faster, printing to you - that’s
-our passion. Welcome to Geo Printing.
-
 ## Fr-easy [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://fr-easy.in/)
 
 This is a Fundraising organisation, which enrol donors on behalf of various charities across several cities in India.
@@ -117,45 +110,10 @@ City Head, Process Manager. Overall 11 Roles implemented with each have differen
 Website is used to manage security guard timesheet and role assignment to the security guard by super admin. This is
 basically guard service.
 
-## Exygo [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://webapp.exygo.in/login)
-
-An appointment website to create and appointment for customer and super admin to manage customers.
-
-## Uniexplorers [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](http://staging.uniexplorers.com/)
-
-This is an education based website where students can complete any course from an institution and they can also get a
-scholarship for their education. There are several user roles here like Admin, Scholarship Provider, Institution,
-Student and their Superadmin. It is application based for Australia only, having 5 user roles Admin, Sub-admin,
-Institutions, Scholarship providers, Students etc. Each user role is having different options capability into the system
-with on request registrations option for institutes and scholarship providers etc.
-
 ## Hmikolkata [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://hmikolkata.com/)
 
 This is an institution website you can buy course and course package. This is Govt of India Approved Post Sea Maritime
 Institute.
-
-## Pumach3pl [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://pumach3pl.bsitc-apps.com/)
-
-This is a connector between <a href="https://www.brightpearl.com/">brightpearl</a> and pumach3pl. This is a business
-solution website for pumach3pl sales. and managing the sales.
-
-## Cyberjammiesjohnlewis [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://cyberjammiesjohnlewis.bsitc-apps.com/)
-
-This is a connector between <a href="https://www.brightpearl.com/">brightpearl</a> and cyberjammiesjohnlewis. This is a
-business solution website for cyberjammiesjohnlewis sales. and managing the sales.
-
-## Wtcinderella (Water That cinderella) [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://wtcinderella.bsitc-apps.com/)
-
-This is a connector between <a href="https://www.brightpearl.com/">brightpearl</a> and cinderella. This is a business
-solution website for cinderella sales. and managing the sales.
-
-## Toptierediting [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://toptierediting.com/)
-
-Top Tier Editing is a New York-based company that offers a range of scientific editing services. Our expertise is in the
-social sciences and we use the official writing style of the American Psychological Association, APA Style. As one of
-the only editing services to use exclusively APA Style, we are highly specialized and remain leaders in social science
-editing. All of our services include APA Style formatting. Our APA editors will work to improve your writing, reach your
-target audience, and enhance the scientific quality of your work.
 
 ## Rental Agency [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](http://rentalagency.com/)
 
