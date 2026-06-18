@@ -99,7 +99,7 @@ business has been active since 1999 and we have extensive experience in what is 
 matter. In recent years, we have expanded our business to also include profile clothing and trade fair products, all to
 create simplicity for you as a customer.
 
-## Fr-easy [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://fr-easy.in/)
+## Fr-easy
 
 This is a Fundraising organisation, which enrol donors on behalf of various charities across several cities in India.
 And this website manages all the data by the admin and other user roles like: Team Leader, Manager, Super admin, Admin,
@@ -110,7 +110,7 @@ City Head, Process Manager. Overall 11 Roles implemented with each have differen
 Website is used to manage security guard timesheet and role assignment to the security guard by super admin. This is
 basically guard service.
 
-## Hmikolkata [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://hmikolkata.com/)
+## Hmikolkata [<img style="height: 20px" src="https://img.icons8.com/?size=100&id=1BYH0ZFsjeIy&format=png&color=000000">](https://hoon.co.in/)
 
 This is an institution website you can buy course and course package. This is Govt of India Approved Post Sea Maritime
 Institute.
